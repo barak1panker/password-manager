@@ -5,17 +5,17 @@ It allows you to **generate strong passwords**, **save them securely**, and **se
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔑 Generate random secure passwords
-- 📝 Save website, email/username, and password to a local JSON file
-- 🔍 Search for saved credentials by website
-- ❌ Input validation (no empty fields)
-- 💾 Data stored safely in `passwords.json`
+-  Generate random secure passwords
+-  Save website, email/username, and password to a local JSON file
+-  Search for saved credentials by website
+-  Input validation (no empty fields)
+-  Data stored safely in `passwords.json`
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 - `main.py` – main script with GUI and logic
 - `passwords.json` – created automatically, stores all saved credentials
@@ -23,7 +23,7 @@ It allows you to **generate strong passwords**, **save them securely**, and **se
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure you have Python installed.
 2. Clone or download this project.
